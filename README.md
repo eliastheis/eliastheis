@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Elias
-I live in Germany and am currently studying computer science. I'm interested in machine learning with Python. I learned Java as my first programming language in school and then I taught myself Python.
+I live in Germany and am currently studying computer science. I'm interested in machine learning with Python. I learned Java as my first programming language in school then I taught Python myself.
 
 Skills: Python / Java / HTML / CSS / JS
 
