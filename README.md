@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Elias
 I live in Germany and am currently studying computer science. I'm interested in machine learning with Python. I learned Java as my first programming language in school then I taught Python myself.
 
-Skills: Python / Java / HTML / CSS / JS
+Skills: Python / Java / C / HTML / CSS / JS
 
 - 🔭 I’m currently working on some private projects 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning MongoDB
 
 ### Here is a Chrome-Extension/FireFox-Addon I made
 It is a darkmode for the course-management-system from my university.
