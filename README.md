@@ -12,12 +12,3 @@ Skills: Python / Java / C / HTML / CSS / JS
 ### Here is a Chrome-Extension/FireFox-Addon I made
 It is a darkmode for the course-management-system from my university.
 You can download it for [Chrome](https://chrome.google.com/webstore/detail/darkmode-f%C3%BCr-buw-moodle/kipahojjgbnhnjjfpamggpealcdaalfp?hl=de) and [Firefox](https://addons.mozilla.org/de/firefox/addon/darkmode-f%C3%BCr-buw-moodle/).
-
-<hr />
-
-###  Stats
-![Elias Theis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliastheis&count_private=true&show_icons=true&theme=dark)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/eliastheis/count.svg" />
-</p>
